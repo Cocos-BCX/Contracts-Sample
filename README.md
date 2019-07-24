@@ -1,2 +1,2 @@
-# Contracts-Sample
-Cocos-BCX
+# Sample-Contracts
+Sample contracts for Cocos-BCX.
